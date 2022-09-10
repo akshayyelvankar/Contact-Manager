@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;400&display=swap');
+
+body{
+  font-family: 'Signika Negative', sans-serif;
+
+}
+.nav-btn{
+  color: white;
+  text-decoration: none;
+  font-size:large;
+}
+.nav-list{
+  color: white;
+  text-decoration: none;
+}
+.card{
+  margin-top: 5%;
+}
+.text{
+  text-align: center;
+}
+.froms{
+  margin-top: 10%;
+  margin-left: 25%;
+  
+}
+.btn{
+   margin-top:10%;
+   text-align: center;
+}
+.btn-edit{
+  text-decoration: none;
+  color: white;
+  background-color:rgb(60, 60, 206);
+  padding: 5px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+  
+}
+.btn-delete{
+ padding:6px 10px;
+ color: white;
+ background-color: rgb(233, 87, 87);
+ margin-left:7px;
+ border-radius: 5px;
+ border:0;
+ cursor: pointer;
+}
+.input-field{
+  width: 70%;
+ }
+ .field{
+  margin-bottom: 5%;
+ }
+ .display{
+  background-color: rgb(127, 229, 255);
+  
+  }
+  .bolds{
+    font-weight: bolder;
+    color: bisque;
+  }
